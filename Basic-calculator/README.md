@@ -14,8 +14,8 @@ It was created to understand the basics of GUI programming and event handling.
 - Tkinter (Python GUI library)
 
 ## Screenshot
-image1.png
-image2.png
+![Basic-calculator](image1.png)
+![Basic-calculator](image2.png)
 
 ## Purpose of this Project
 This project helped me understand:
