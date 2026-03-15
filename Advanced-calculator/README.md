@@ -16,8 +16,8 @@ It includes a better UI design and additional functionality.
 - Tkinter
 
 ## Screenshot
-image1.png
-image2.png
+![Basic-calculator](image1.png)
+![Basic-calculator](image2.png)
 
 ## Improvements Over Basic Version
 - Better UI design
