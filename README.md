@@ -43,3 +43,7 @@ advanced-calculator/
 
 ## Purpose of This Repository
 This repository shows the development journey from a basic calculator to a more advanced GUI calculator.
+
+### Screenshorts
+![Basic-calculator](Basic-calculator/image2.png)
+![Advanced-calculator](Advanced-calculator/image2.png)
